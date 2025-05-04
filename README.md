@@ -1,6 +1,5 @@
 # Chat with Your Video Library - RAG System
 
-![Project Banner](https://via.placeholder.com/800x200?text=Video+Library+RAG+System)
 
 ## Project Overview
 This project implements a Retrieval-Augmented Generation (RAG) system that allows users to query educational video content and receive answers grounded in specific video segments. The system combines vector similarity search with large language models to provide accurate, timestamped responses with relevant video clips.
