@@ -31,5 +31,3 @@ This project implements a Retrieval-Augmented Generation (RAG) system that allow
    - Gradio web interface
    - Clip generation and display
    - Example queries and demonstrations
-
-## File Structure
